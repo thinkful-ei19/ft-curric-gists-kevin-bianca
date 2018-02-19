@@ -1,0 +1,1 @@
+JS exercises #1
